@@ -5,14 +5,13 @@
     <thead>
         <tr>
             <th></th>
-            <th colspan="3">CY 2020</th>
+            <th colspan="2">CY 2020</th>
             <th colspan="12">CY 2021</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td></td>
-            <td>Oct</td>
             <td>Nov</td>
             <td>Dec</td>
             <td>Jan</td>
@@ -30,7 +29,6 @@
         </tr>
         <tr>
             <td><a href=doc/CORTX_Hackathon.rst>Hackathons</a></td>
-            <td></td>
             <td></td>
             <td> <img src="https://www.countryflags.io/il/flat/64.png"><br><a href=doc/First_Hackathon.rst>LINK</a></td>
             <td></td>
@@ -51,7 +49,6 @@
         <tr>
         <td><a href=https://github.com/Seagate/cortx/tree/main/doc/PDFs/Newsletters>Newsletters</a>
 </td>
-        <td></td>
         <td>:heavy_check_mark:
         <a href=/doc/PDFs/Newsletters/November%202020%20Newsletter.pdf>PDF</a>
         </td>
@@ -83,7 +80,6 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
         <td>:heavy_check_mark:<br><a href=https://github.com/Seagate/cortx/releases/tag/ova-1.0.3>LINK</a></td>
         <td>:heavy_check_mark:</td>
         <td></td>
@@ -97,7 +93,6 @@
         </tr>
         <tr>
         <td><a href=doc/meetings/README.rst>Webinars</a></td>
-        <td></td>
         <td>:heavy_check_mark:<br><a href=doc/meetings/README.rst>LINK</a></td>
         <td>:heavy_check_mark:<br><a href=doc/meetings/README.rst>LINK</a></td>
         <td>:heavy_check_mark:<br><a href=doc/meetings/README.rst>LINK</a></td>
@@ -115,7 +110,6 @@
         </tr>
         <tr>
         <td><a href=doc/meetings/README.rst>Lyve Pilot</a></td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
