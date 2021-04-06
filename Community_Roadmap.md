@@ -119,7 +119,7 @@
         <td>:heavy_check_mark:</td>
         </tr>
         <tr>
-        <td><a href="https://foo.com>Lyve Pilot</a></td>
+        <td><a href=doc/meetings/README.rst>Lyve Pilot</a></td>
         <td></td>
         <td></td>
         <td></td>
