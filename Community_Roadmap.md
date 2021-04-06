@@ -118,5 +118,24 @@
         <td>:heavy_check_mark:</td>
         <td>:heavy_check_mark:</td>
         </tr>
+        <tr>
+        <td><a href="https://foo.com>Lyve Pilot</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Code Prep</td>
+        <td></td>
+        <td>GitHub</td>
+        <td></td>
+        <td>Inner Source</td>
+        <td></td>
+        <td>EA</td>
+        <td>Hackathon</td>
+        </tr>
     </tbody>
 </table>
