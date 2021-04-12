@@ -119,10 +119,10 @@
         <td>Code Prep</td>
         <td></td>
         <td>GitHub</td>
-        <td></td>
         <td>Inner Source</td>
+        <td>Early Adopter</td>
+        <td>World Wide</td>
         <td></td>
-        <td>EA</td>
         <td>Hackathon</td>
         </tr>
     </tbody>
